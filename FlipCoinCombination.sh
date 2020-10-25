@@ -2,7 +2,6 @@
 
 echo "WELCOME TO FLIP COIN COMBINATION PROGRAM ON MASTER BRANCH"
 
-
 coinToss=$((RANDOM%2))
 if [ $coinToss == 0 ]
 then
